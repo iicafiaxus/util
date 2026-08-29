@@ -5,6 +5,8 @@
 game.jsxの中では、行頭から
 "REQUIRE util.jsx"
 のように記述しておくと依存先として認識される (先に読み込まれる)
+
+Babelが必要です。
 */
 
 let Loader = {};
